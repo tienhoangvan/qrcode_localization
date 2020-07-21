@@ -1,0 +1,6 @@
+<launch>
+
+<node pkg="qrcode" type="qrcode_localization.py" name="qrcode_localization" output="screen">
+</node>
+
+</launch>

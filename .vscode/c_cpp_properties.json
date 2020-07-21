@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/tien/test/ws_moveit/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/tien/test/ws_moveit/src/moveit/moveit_planners/chomp/chomp_motion_planner/include/**",
+                "/home/tien/test/ws_moveit/src/geometric_shapes/include/**",
+                "/home/tien/test/ws_moveit/src/moveit_cartesian_plan_plugin/include/**",
+                "/home/tien/test/ws_moveit/src/moveit/moveit_experimental/moveit_jog_arm/include/**",
+                "/home/tien/test/ws_moveit/src/moveit/moveit_planners/chomp/chomp_interface/include/**",
+                "/home/tien/test/ws_moveit/src/moveit/moveit_ros/benchmarks/include/**",
+                "/home/tien/test/ws_moveit/src/moveit/moveit_plugins/moveit_ros_control_interface/include/**",
+                "/home/tien/test/ws_moveit/src/moveit/moveit_ros/move_group/include/**",
+                "/home/tien/test/ws_moveit/src/moveit/moveit_ros/occupancy_map_monitor/include/**",
+                "/home/tien/test/ws_moveit/src/moveit/moveit_ros/robot_interaction/include/**",
+                "/home/tien/test/ws_moveit/src/moveit/moveit_setup_assistant/include/**",
+                "/home/tien/test/ws_moveit/src/moveit/moveit_plugins/moveit_simple_controller_manager/include/**",
+                "/home/tien/test/ws_moveit/src/moveit_visual_tools/include/**",
+                "/home/tien/test/ws_moveit/src/rviz_visual_tools/include/**",
+                "/home/tien/test/ws_moveit/src/universal_robot/ur_kinematics/include/**",
+                "/home/tien/test/ws_moveit/src/ur_modern_driver/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
